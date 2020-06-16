@@ -16,7 +16,8 @@ Graph Analysis and Visualisation Tool Kit is an open source python package for f
 
 ## Installation
 1. Create a Virtual Environment
-2. Use package manager to install setup.py file
+2. Clone the repository
+3. Use package manager to install setup.py file
 ```bash
 pip3 install .
 ```
