@@ -14,7 +14,12 @@ Graph Analysis and Visualisation Tool Kit is an open source python package for f
 * tkinter >= 8.6
 * matplotlib >= 3.2.1
 
-## Installation
+## Installation (Released)
+```bash
+pip install gavtk
+```
+
+## Installation (Test Pre-Release)
 1. Create a Virtual Environment
 2. Clone the repository
 3. Use package manager to install setup.py file
